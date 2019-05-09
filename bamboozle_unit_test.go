@@ -11,8 +11,8 @@ import (
 	"github.com/litecoinfinance/btcd/wire"
 	"github.com/litecoinfinance/btcutil/gcs"
 	"github.com/litecoinfinance/btcutil/gcs/builder"
-	"github.com/btcsuite/btcwallet/walletdb"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/litecoinfinance/btcwallet/walletdb"
+	"github.com/litecoinfinance/neutrino/headerfs"
 )
 
 func decodeHashNoError(str string) *chainhash.Hash {

@@ -20,9 +20,9 @@ import (
 	"github.com/litecoinfinance/btcutil"
 	"github.com/litecoinfinance/btcutil/gcs"
 	"github.com/litecoinfinance/btcutil/gcs/builder"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/headerfs"
-	"github.com/lightninglabs/neutrino/headerlist"
+	"github.com/litecoinfinance/neutrino/blockntfns"
+	"github.com/litecoinfinance/neutrino/headerfs"
+	"github.com/litecoinfinance/neutrino/headerlist"
 )
 
 const (

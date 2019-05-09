@@ -3,7 +3,7 @@ package cache
 import (
 	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
 	"github.com/litecoinfinance/btcutil/gcs"
-	"github.com/lightninglabs/neutrino/filterdb"
+	"github.com/litecoinfinance/neutrino/filterdb"
 )
 
 // FilterCacheKey represents the key used to access filters in the FilterCache.

@@ -19,10 +19,10 @@ import (
 	"github.com/litecoinfinance/btcutil"
 	"github.com/litecoinfinance/btcutil/gcs"
 	"github.com/litecoinfinance/btcutil/gcs/builder"
-	"github.com/lightninglabs/neutrino/cache"
-	"github.com/lightninglabs/neutrino/cache/lru"
-	"github.com/lightninglabs/neutrino/filterdb"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/litecoinfinance/neutrino/cache"
+	"github.com/litecoinfinance/neutrino/cache/lru"
+	"github.com/litecoinfinance/neutrino/filterdb"
+	"github.com/litecoinfinance/neutrino/headerfs"
 )
 
 var (

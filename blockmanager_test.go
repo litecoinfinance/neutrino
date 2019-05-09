@@ -12,9 +12,9 @@ import (
 	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
 	"github.com/litecoinfinance/btcd/wire"
 	"github.com/litecoinfinance/btcutil/gcs/builder"
-	"github.com/btcsuite/btcwallet/walletdb"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/litecoinfinance/btcwallet/walletdb"
+	"github.com/litecoinfinance/neutrino/blockntfns"
+	"github.com/litecoinfinance/neutrino/headerfs"
 )
 
 // maxHeight is the height we will generate filter headers up to.

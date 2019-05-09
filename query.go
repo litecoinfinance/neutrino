@@ -15,9 +15,9 @@ import (
 	"github.com/litecoinfinance/btcutil/gcs"
 	"github.com/litecoinfinance/btcutil/gcs/builder"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/lightninglabs/neutrino/cache"
-	"github.com/lightninglabs/neutrino/filterdb"
-	"github.com/lightninglabs/neutrino/pushtx"
+	"github.com/litecoinfinance/neutrino/cache"
+	"github.com/litecoinfinance/neutrino/filterdb"
+	"github.com/litecoinfinance/neutrino/pushtx"
 )
 
 var (

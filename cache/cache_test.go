@@ -8,9 +8,9 @@ import (
 	"github.com/litecoinfinance/btcd/wire"
 	"github.com/litecoinfinance/btcutil"
 	"github.com/litecoinfinance/btcutil/gcs"
-	"github.com/lightninglabs/neutrino/cache"
-	"github.com/lightninglabs/neutrino/cache/lru"
-	"github.com/lightninglabs/neutrino/filterdb"
+	"github.com/litecoinfinance/neutrino/cache"
+	"github.com/litecoinfinance/neutrino/cache/lru"
+	"github.com/litecoinfinance/neutrino/filterdb"
 )
 
 // TestBlockFilterCaches tests that we can put and retrieve elements from all

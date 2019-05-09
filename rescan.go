@@ -19,9 +19,9 @@ import (
 	"github.com/litecoinfinance/btcutil"
 	"github.com/litecoinfinance/btcutil/gcs"
 	"github.com/litecoinfinance/btcutil/gcs/builder"
-	"github.com/btcsuite/btcwallet/waddrmgr"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/headerfs"
+	"github.com/litecoinfinance/btcwallet/waddrmgr"
+	"github.com/litecoinfinance/neutrino/blockntfns"
+	"github.com/litecoinfinance/neutrino/headerfs"
 )
 
 var (

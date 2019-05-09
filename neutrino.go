@@ -20,13 +20,13 @@ import (
 	"github.com/litecoinfinance/btcd/peer"
 	"github.com/litecoinfinance/btcd/wire"
 	"github.com/litecoinfinance/btcutil"
-	"github.com/btcsuite/btcwallet/waddrmgr"
-	"github.com/btcsuite/btcwallet/walletdb"
-	"github.com/lightninglabs/neutrino/blockntfns"
-	"github.com/lightninglabs/neutrino/cache/lru"
-	"github.com/lightninglabs/neutrino/filterdb"
-	"github.com/lightninglabs/neutrino/headerfs"
-	"github.com/lightninglabs/neutrino/pushtx"
+	"github.com/litecoinfinance/btcwallet/waddrmgr"
+	"github.com/litecoinfinance/btcwallet/walletdb"
+	"github.com/litecoinfinance/neutrino/blockntfns"
+	"github.com/litecoinfinance/neutrino/cache/lru"
+	"github.com/litecoinfinance/neutrino/filterdb"
+	"github.com/litecoinfinance/neutrino/headerfs"
+	"github.com/litecoinfinance/neutrino/pushtx"
 )
 
 // These are exported variables so they can be changed by users.

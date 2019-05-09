@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/litecoinfinance/btcd/wire"
-	"github.com/lightninglabs/neutrino/pushtx"
+	"github.com/litecoinfinance/neutrino/pushtx"
 )
 
 // TestParseBroadcastErrorCode ensures that we properly construct a

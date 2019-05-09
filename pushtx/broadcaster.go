@@ -8,8 +8,8 @@ import (
 
 	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
 	"github.com/litecoinfinance/btcd/wire"
-	"github.com/btcsuite/btcwallet/wtxmgr"
-	"github.com/lightninglabs/neutrino/blockntfns"
+	"github.com/litecoinfinance/btcwallet/wtxmgr"
+	"github.com/litecoinfinance/neutrino/blockntfns"
 )
 
 var (

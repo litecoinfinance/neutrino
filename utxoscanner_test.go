@@ -11,7 +11,7 @@ import (
 	"github.com/litecoinfinance/btcd/wire"
 	"github.com/litecoinfinance/btcutil"
 	"github.com/litecoinfinance/btcutil/gcs"
-	"github.com/btcsuite/btcwallet/waddrmgr"
+	"github.com/litecoinfinance/btcwallet/waddrmgr"
 )
 
 type MockChainClient struct {
