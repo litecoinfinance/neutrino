@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcutil/gcs"
+	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
+	"github.com/litecoinfinance/btcutil/gcs"
 	"github.com/lightninglabs/neutrino/filterdb"
 )
 

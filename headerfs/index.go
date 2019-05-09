@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/litecoinfinance/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcwallet/walletdb"
 )
 
